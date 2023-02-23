@@ -1,0 +1,12 @@
+C:\Buzon\Projects\Soindus2021\Soindus.Interfaces.Modelos\bin\Release\Soindus.Interfaces.Modelos.dll.config
+C:\Buzon\Projects\Soindus2021\Soindus.Interfaces.Modelos\bin\Release\Soindus.Interfaces.Modelos.dll
+C:\Buzon\Projects\Soindus2021\Soindus.Interfaces.Modelos\bin\Release\Soindus.Interfaces.Modelos.pdb
+C:\Buzon\Projects\Soindus2021\Soindus.Interfaces.Modelos\bin\Release\EntityFramework.dll
+C:\Buzon\Projects\Soindus2021\Soindus.Interfaces.Modelos\bin\Release\EntityFramework.SqlServer.dll
+C:\Buzon\Projects\Soindus2021\Soindus.Interfaces.Modelos\bin\Release\EntityFramework.xml
+C:\Buzon\Projects\Soindus2021\Soindus.Interfaces.Modelos\bin\Release\EntityFramework.SqlServer.xml
+C:\Buzon\Projects\Soindus2021\Soindus.Interfaces.Modelos\obj\Release\Soindus.Interfaces.Modelos.csprojAssemblyReference.cache
+C:\Buzon\Projects\Soindus2021\Soindus.Interfaces.Modelos\obj\Release\Soindus.Interfaces.Modelos.csproj.CoreCompileInputs.cache
+C:\Buzon\Projects\Soindus2021\Soindus.Interfaces.Modelos\obj\Release\Soindus.Interfaces.Modelos.csproj.CopyComplete
+C:\Buzon\Projects\Soindus2021\Soindus.Interfaces.Modelos\obj\Release\Soindus.Interfaces.Modelos.dll
+C:\Buzon\Projects\Soindus2021\Soindus.Interfaces.Modelos\obj\Release\Soindus.Interfaces.Modelos.pdb

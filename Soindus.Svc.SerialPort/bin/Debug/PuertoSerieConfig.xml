@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Settings>
+  <SerialPort>
+    <!--//Puerto Serie//-->
+    <PortName>COM1</PortName>
+    <!--//Bits por segundo//-->
+    <BaudRate>9600</BaudRate>
+    <!--//Paridad//-->
+    <!--//Parity   : None = 0, Odd = 1, Even = 2, Mark = 3, Space = 4//-->
+    <Parity>0</Parity>
+    <!--//Bits de datos//-->
+    <DataBits>8</DataBits>
+    <!--//Bits de parada//-->
+    <!--//StopBits : None = 0, One = 1, Two = 2, OnePointFive = 3//-->
+    <StopBits>1</StopBits>
+    <!--//Control de flujo//-->
+    <!--//Handshake: None = 0, XOnXOff = 1, RequestToSend = 2, RequestToSendXOnXOff = 3//-->
+    <Handshake>0</Handshake>
+    <!--//Intervalo de lectura (milisegundos)//-->
+    <DelayInterval>100</DelayInterval>
+    <!--//Tiempo límite de escritura (milisegundos)//-->
+    <WriteTimeOut>1000</WriteTimeOut>
+    <!--//Tiempo límite de lectura (milisegundos)//-->
+    <ReadTimeOut>40000</ReadTimeOut>
+    <!--//Máximo número de intentos (segundos)//-->
+    <MaxTrySec>3</MaxTrySec>
+    <!--//Máximo número de intentos Time Out (segundos)//-->
+    <MaxTryTimeOutSec>60</MaxTryTimeOutSec>
+    <!--//Mensaje de envío a dispositivo//-->
+    <SendString></SendString>
+    <!--//Agregar salto de línea en mensaje de envío a dispositivo//-->
+    <!--//SendCrLf : Si = Y, No = N//-->
+    <SendCrLf>Y</SendCrLf>
+    <!--//Separador decimal del dispositivo//-->
+    <DecimalSep>.</DecimalSep>
+    <!--//Separador decimal de salida//-->
+    <DecimalSepExit>,</DecimalSepExit>
+    <!--//Extraer valores desde posición//-->
+    <!--//ValueExtract : Si = Y, No = N//-->
+    <ValueExtract>Y</ValueExtract>
+    <!--//Parte Entera//-->
+    <!--//IntPart : Posición Inicial, Largo de extracción//-->
+    <IntPart>0,4</IntPart>
+    <!--//Parte Decimal//-->
+    <!--//DecPart : Posición Inicial, Largo de extracción//-->
+    <DecPart>6,1</DecPart>
+  </SerialPort>
+</Settings>

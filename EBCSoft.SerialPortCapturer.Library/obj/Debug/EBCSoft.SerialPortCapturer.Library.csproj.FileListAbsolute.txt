@@ -1,0 +1,9 @@
+C:\Buzon\Projects\Soindus2021\EBCSoft.SerialPortCapturer.Library\bin\x86\PuertoSerieConfig.xml
+C:\Buzon\Projects\Soindus2021\EBCSoft.SerialPortCapturer.Library\bin\x86\EBCSoft.SerialPortCapturer.Library.dll
+C:\Buzon\Projects\Soindus2021\EBCSoft.SerialPortCapturer.Library\bin\x86\EBCSoft.SerialPortCapturer.Library.pdb
+C:\Buzon\Projects\Soindus2021\EBCSoft.SerialPortCapturer.Library\bin\Debug\PuertoSerieConfig.xml
+C:\Buzon\Projects\Soindus2021\EBCSoft.SerialPortCapturer.Library\bin\Debug\EBCSoft.SerialPortCapturer.Library.dll
+C:\Buzon\Projects\Soindus2021\EBCSoft.SerialPortCapturer.Library\bin\Debug\EBCSoft.SerialPortCapturer.Library.pdb
+C:\Buzon\Projects\Soindus2021\EBCSoft.SerialPortCapturer.Library\obj\Debug\EBCSoft.SerialPortCapturer.Library.csproj.CoreCompileInputs.cache
+C:\Buzon\Projects\Soindus2021\EBCSoft.SerialPortCapturer.Library\obj\Debug\EBCSoft.SerialPortCapturer.Library.dll
+C:\Buzon\Projects\Soindus2021\EBCSoft.SerialPortCapturer.Library\obj\Debug\EBCSoft.SerialPortCapturer.Library.pdb
